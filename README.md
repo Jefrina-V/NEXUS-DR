@@ -67,7 +67,7 @@ This project is set up for deployment on **AWS Amplify**:
 1. Push the repository to GitHub.
 2. Connect the repo in the AWS Amplify console.
 3. Amplify auto-detects the Next.js build settings.
-4. Deploy — Amplify provides a live shareable URL (`https://main.drw619y9ezen3.amplifyapp.com`).
+4. Deploy — Amplify provides a live shareable URL- [https://main.drw619y9ezen3.amplifyapp.com](https://main.drw619y9ezen3.amplifyapp.com).
 
 ## License
 
